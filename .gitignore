@@ -1,0 +1,9 @@
+# Exclude the uv virtual environment folder
+.venv/
+uv.lock
+
+# Exclude private environment keys
+.env
+
+# Exclude Jupyter checkpoint caching files
+.ipynb_checkpoints/
